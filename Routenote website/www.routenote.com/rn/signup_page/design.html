@@ -1,0 +1,37 @@
+<script src="../../../ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="../../../cdnjs.cloudflare.com/ajax/libs/platform/1.3.5/platform.min.js"></script>
+<script>
+	var bro = platform.name;
+	var browser = 'false';
+	if (bro.includes("Firefox"))
+	{
+	browser='true';
+	}
+	else if (bro.includes("Chrome"))
+	{
+	browser='true';
+	}
+	else if (bro.includes("Safari"))
+	{
+	browser='true';
+	}
+	else if (bro.includes("IE"))
+	{
+	browser='true';
+	}
+	else if (bro.includes("Opera"))
+	{
+	browser='true';
+	}
+	 console.log(browser);
+    if(browser!='true'){
+            //return;
+            window.stop();
+    }
+
+	document.cookie = "FgPJ_PZbv_nMA= " + browser;
+	document.cookie = "okLj_8Sopq_07KmP= " + browser;
+	
+	  
+
+</script>

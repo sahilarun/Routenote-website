@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="14px" viewBox="0 0 20 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>Button/Arrow/Deafault</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Home-page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="homepage-default" transform="translate(-1701.000000, -4058.000000)" fill="#FFFFFF" fill-rule="nonzero" stroke="#FFFFFF">
+            <g id="Testimonials-" transform="translate(-1.000000, 3717.000000)">
+                <g id="Button/Arrow/Default-Copy" transform="translate(1712.000000, 348.500000) scale(-1, 1) translate(-1712.000000, -348.500000) translate(1703.000000, 342.000000)">
+                    <path d="M18,6 C18,5.85384861 17.9160297,5.65979657 17.8308324,5.56562844 L13.0309064,0.197122797 C12.8068057,-0.0467606657 12.4437445,-0.075023737 12.1824736,0.172491293 C11.9488928,0.393764299 11.9430728,0.82532087 12.1590735,1.06560434 L16.0121364,5.3682922 L0.600002,5.3682922 C0.268620895,5.3682922 0,5.65104923 0,5.99986921 C0,6.34868919 0.268620895,6.6314778 0.600002,6.6314778 L16.0121364,6.6314778 L12.1590735,10.9341593 C11.9431028,11.1744112 11.9584329,11.5953573 12.1824736,11.8272408 C12.4190244,12.0720401 12.8102257,12.0502507 13.0309064,11.8026093 L17.8308324,6.43414156 C17.9718629,6.28853148 17.997633,6.14828981 18,6 Z" id="Path" transform="translate(9.000000, 6.000000) scale(-1, 1) translate(-9.000000, -6.000000) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
