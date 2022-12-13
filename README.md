@@ -40,7 +40,7 @@
 - [x] Easy to use
 
 ###
-Routenote Website UI is a music distribution compny base in [Routenote.com](https://routenote.com)
+Routenote Website UI is a music distribution company base in [Routenote.com](https://routenote.com)
 If you liked this repository, feel free to leave a star ⭐ to help promote !
 
 
