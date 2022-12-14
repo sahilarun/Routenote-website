@@ -13,15 +13,15 @@
     Routenote is a music distributon website
     <br />
     <br />
-    <a href="https://github.com/PagalLadka0001/Routenote-website/issues">Report Bug</a>
+    <a href="https://github.com/sahilarun/Routenote-website/issues">Report Bug</a>
     ·
-    <a href="https://github.com/PagalLadka0001/Routenote-website/issues">Request Feature</a>
+    <a href="https://github.com/sahilarun/Routenote-website/issues">Request Feature</a>
   </p>
 </p>
 <!-- ABOUT THE PROJECT -->
 
 ## 🌀 About
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PagalLadka0001&repo=Routenote-website&theme=tokyonight)](https://github.com/PagalLadka0001/Routenote-website)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sahilarun&repo=Routenote-website&theme=tokyonight)](https://github.com/PagalLadka0001/Routenote-website)
 ## 🎵 Update UI
 - [x] Cloud Hosting
 - [x] Special Apis
@@ -52,15 +52,15 @@ If you liked this repository, feel free to leave a star ⭐ to help promote !
 
 
 
-[version-shield]: https://img.shields.io/github/package-json/v/PagalLadka0001/Routenote-website?style=for-the-badge
-[version-url]: https://github.com/PagalLadka0001/Routenote-website
-[contributors-shield]: https://img.shields.io/github/contributors/PagalLadka0001/Routenote-website.svg?style=for-the-badge
-[contributors-url]: https://github.com/PagalLadka0001/Routenote-website/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/PagalLadka0001/Routenote-website.svg?style=for-the-badge
-[forks-url]: https://github.com/PagalLadka0001/Routenote-website/network/members
-[stars-shield]: https://img.shields.io/github/stars/PagalLadka0001/Routenote-website.svg?style=for-the-badge
-[stars-url]: https://github.com/PagalLadka0001/Routenote-website/stargazers
-[issues-shield]: https://img.shields.io/github/issues/PagalLadka0001/Routenote-website.svg?style=for-the-badge
-[issues-url]: https://github.com/PagalLadka0001/Routenote-website/issues
-[license-shield]: https://img.shields.io/github/license/PagalLadka0001/Routenote-website.svg?style=for-the-badge
-[license-url]: https://github.com/PagalLadka0001/Routenote-website/blob/master/LICENSE
+[version-shield]: https://img.shields.io/github/package-json/v/sahilarun/Routenote-website?style=for-the-badge
+[version-url]: https://github.com/sahilarun/Routenote-website
+[contributors-shield]: https://img.shields.io/github/contributors/sahilarun/Routenote-website.svg?style=for-the-badge
+[contributors-url]: https://github.com/sahilarun/Routenote-website/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/sahilarun/Routenote-website.svg?style=for-the-badge
+[forks-url]: https://github.com/sahilarun/Routenote-website/network/members
+[stars-shield]: https://img.shields.io/github/stars/sahilarun/Routenote-website.svg?style=for-the-badge
+[stars-url]: https://github.com/sahilarun/Routenote-website/stargazers
+[issues-shield]: https://img.shields.io/github/issues/sahilarun/Routenote-website.svg?style=for-the-badge
+[issues-url]: https://github.com/sahilarun/Routenote-website/issues
+[license-shield]: https://img.shields.io/github/license/sahilarun/Routenote-website.svg?style=for-the-badge
+[license-url]: https://github.com/sahilarun/Routenote-website/blob/master/LICENSE
